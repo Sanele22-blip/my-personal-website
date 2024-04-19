@@ -87,6 +87,18 @@
   .content {
     margin: 30px;
   }
+
+  .roscoe {
+text-align: center;
+  }
+
+  .zoe {
+    width: 400px;
+    height: 400px;
+    text-align: center;
+    display: block;
+    margin: auto;
+  }
   
   .btn-branding {
     background: var(--branding-color);
